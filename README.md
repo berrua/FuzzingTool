@@ -6,7 +6,7 @@ This repository contains a CLI-based fuzzing tool developed in Go, utilizing the
 
 Usage
 
-  fuzzing fuzzer [flags]
+      fuzzing fuzzer [flags]
 
 Flags
 
