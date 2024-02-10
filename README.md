@@ -4,11 +4,11 @@ This repository contains a CLI-based fuzzing tool developed in Go, utilizing the
 
 ![asciiart](asciiart.png)
 
-Usage
+**Usage**
 
       fuzzing fuzzer [flags]
 
-Flags
+**Flags**
 
       -h, --help          Help for fuzzer
       --speed int         Specify the speed in milliseconds for fuzzing (default 500) 
